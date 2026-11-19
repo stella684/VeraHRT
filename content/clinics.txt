@@ -1,0 +1,9 @@
+# ဟော်မုန်းစစ်ပေးသည့်ဆေးခန်းများ
+
+တခြားဆေးခန်းတွေသိတယ်ဆိုရင်ညီမရဲ့ telegram ကိုလာပြောလို့ရပါတယ်နော်။
+
+[embed icon="sml.icon" title="SML Medical Care" descIcon="" footer=""]
+ဒီဆေးခန်းမှာ ဟော်မုန်းစစ်လို့ရပါတယ်နော်။ သူ့ရဲ့ location တည်နေရာလေးတွေကိုတော့သူတို့ရဲ့ website ထဲမှာကြည့်လို့ရပါတယ်။
+ [button text="website" url="https://www.sml-healthcare.com/laboratory-locations.html" style="ghost"]
+
+[/embed]
